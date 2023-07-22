@@ -8,3 +8,27 @@ a {
   margin: 0;
   padding: 0;
 }
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Nunito', Arial, Helvetica, sans-serif;
+  color: #222;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
