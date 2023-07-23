@@ -94,3 +94,13 @@ img {
 .menu-nav a:hover {
   color: #122ab2;
 }
+
+/* INTRODUCAO */
+
+.introducao {
+  font-size: 3rem;
+  line-height: 1;
+  max-width: 60rem;
+  margin: 0 auto;
+  padding: 3.75rem 0.625rem;
+}
